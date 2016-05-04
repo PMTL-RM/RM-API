@@ -1,7 +1,7 @@
 [
   {
       "id":"1",
-      "name"=:"Tom",
+      "name":"Tom",
       "friend":["Bebe","Tim","mao"]
   }
 ];
