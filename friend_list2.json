@@ -1,0 +1,9 @@
+[
+
+  {
+      "id":"2",
+      "name":"Tim",
+      "friend":["Amy","Jackson","Pual"]
+  }
+
+];
